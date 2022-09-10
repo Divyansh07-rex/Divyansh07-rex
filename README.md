@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Learning Full Stack Web Development
 -----------------------------------
 
-* 🌍  I'm based in India
+* 🌍  Based in India
 * ✉️  You can contact me at [divyanshdev19@gmail.com](mailto:divyanshdev19@gmail.com)
 * 🧠  I'm learning JavaScript
 * 🤝  I'm open to collaborating on interesting projects
